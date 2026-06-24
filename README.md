@@ -78,9 +78,6 @@ TDD-PRL-BiLSTM-Project/
 │   ├── confusion_matrix.png
 │   ├── training_curves.png
 │
-├── notebooks/
-│   └── HAR_training.ipynb
-│
 ├── requirements.txt
 └── README.md
 ```
